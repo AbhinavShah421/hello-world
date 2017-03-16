@@ -1,0 +1,6 @@
+git status// if git is init is already configured it shows the untracked files
+git add // with the name of specified new file in local directory
+git commit -m "First commit"// for commiting files
+git push origin <current branchName>// branchchanged is name of my current branchName
+............................................completed.................................................
+..................................enjoy.....and................. share your code to evry where............................
